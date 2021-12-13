@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Marlon, I'm a 26 yearold IT person looking to get into development. This blog is a place for me to document my learnings in the lead up to attending Makers academy in June 2022. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm into cycling, love hip-hop/ drum and bass and a big movie buff.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marlon.buckley@protonmail.com](mailto:marlon.buckley@protonmail.com)
